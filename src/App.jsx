@@ -3,7 +3,6 @@ import { useState } from 'react';
 function App() {
   const [calc,setCalc]=useState("");
   const [result,setResult]=useState("");
-
   const ops=['/','*','+','-','.'];
   const updateCalc= value =>{
    if(
