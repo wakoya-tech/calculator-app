@@ -39,6 +39,7 @@ function App() {
     const value=calc.slice(0,-1);
     setCalc(value);
   }
+  
   return (
     <div className="App">
      <div className="calculator">
