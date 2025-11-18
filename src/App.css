@@ -12,8 +12,6 @@
 }
 body{
   background-color: var(--light);
-
-  
 }
 .App{
   display: flex;
