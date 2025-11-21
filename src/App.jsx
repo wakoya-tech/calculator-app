@@ -15,6 +15,7 @@ function App() {
    if(!ops.includes(value)){
     setResult(eval(calc + value).toString());
    }
+    
   }
   const createDigits=()=>{
     const digits= [];
